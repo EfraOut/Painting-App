@@ -12,7 +12,6 @@ Everything was written using Kotlin on Android Studio.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [YouTube Tutorial](https://www.youtube.com/watch?v=8mjv_iDSLcw)
 * [Kotlin Style Guide](https://developer.android.com/kotlin/style-guide)
 
